@@ -1,0 +1,36 @@
+1
+DC    CC
+CC    CC
+ #@@@@# 
+  @$ @  
+ #@ $@# 
+  @@@@  
+CC    CC
+CC    CC
+2 
+DC    CD
+CC    CC
+ #@@@@# 
+  @$ @  
+ #@ $@# 
+  @@@@  
+CC    CC
+CC    CC
+3 
+DC    CD
+CC    CC
+ #@@@@# 
+  @$ @  
+ #@$$@# 
+  @@@@  
+CC    CC
+RC    CC
+4 
+DC    CD
+CC    CC
+ #@@@@# 
+  @$$@  
+ #@$$@# 
+  @@@@  
+CC    CC
+RC    CU
